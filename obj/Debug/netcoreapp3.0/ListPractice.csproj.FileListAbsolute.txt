@@ -1,0 +1,11 @@
+c:\Nate2019\NSS\workspace\c#\ListPractice\bin\Debug\netcoreapp3.0\ListPractice.exe
+C:\Nate2019\NSS\workspace\c#\ListPractice\bin\Debug\netcoreapp3.0\ListPractice.deps.json
+C:\Nate2019\NSS\workspace\c#\ListPractice\bin\Debug\netcoreapp3.0\ListPractice.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\ListPractice\bin\Debug\netcoreapp3.0\ListPractice.runtimeconfig.dev.json
+c:\Nate2019\NSS\workspace\c#\ListPractice\bin\Debug\netcoreapp3.0\ListPractice.dll
+c:\Nate2019\NSS\workspace\c#\ListPractice\bin\Debug\netcoreapp3.0\ListPractice.pdb
+c:\Nate2019\NSS\workspace\c#\ListPractice\obj\Debug\netcoreapp3.0\ListPractice.csprojAssemblyReference.cache
+c:\Nate2019\NSS\workspace\c#\ListPractice\obj\Debug\netcoreapp3.0\ListPractice.AssemblyInfoInputs.cache
+c:\Nate2019\NSS\workspace\c#\ListPractice\obj\Debug\netcoreapp3.0\ListPractice.AssemblyInfo.cs
+c:\Nate2019\NSS\workspace\c#\ListPractice\obj\Debug\netcoreapp3.0\ListPractice.dll
+c:\Nate2019\NSS\workspace\c#\ListPractice\obj\Debug\netcoreapp3.0\ListPractice.pdb
